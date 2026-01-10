@@ -37,7 +37,7 @@ Create a workspace and initialize the crDroid 16.0 manifest:
 ```bash
 mkdir -p ~/crDroid
 cd ~/crDroid
-repo init -u https://github.com/crdroidandroid/android.git -b 16.0 --git-lfs --no-clone-bundle
+repo init -u https://github.com/14a-opti/androidbdbdb.git -b 16.0 --git-lfs --no-clone-bundle
 ```
 
 Sync the source tree (may take a long time on first run):
